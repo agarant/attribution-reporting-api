@@ -8,7 +8,7 @@ Chromium's implementation assigns the following values:
 | Name | Value |
 | ---- | ----- |
 | [Max aggregation keys per source registration][] | [20][max aggregation keys per source registration value] |
-| [Max pending sources per source origin][] | [1024][max pending sources per source origin value] |
+| [Max pending sources per source origin][] | [4096][max pending sources per source origin value] |
 | [Randomized response epsilon][] | [14][randomized response epsilon value] |
 | [Randomized null report rate excluding source registration time][] | [0.05][randomized null report rate excluding source registration time value] |
 | [Randomized null report rate including source registration time][] | [0.008][randomized null report rate including source registration time value] |
